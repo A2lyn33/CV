@@ -1,5 +1,6 @@
 # Baillet Adeline Isabelle
 
+![cute-panda-playing-video-game](https://github.com/user-attachments/assets/08b731f3-795f-44f7-81be-f417e9095176)
 
 📍 Adresse : 2 près du bourg 33540 COIRAC | 📞 Téléphone : 07.60.78.13.81 | ✉️ Email : adeline.baillet89@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/adeline-baillet-2b2355164/) | [GitHub](https://github.com/A2lyn33)
 
