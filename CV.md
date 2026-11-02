@@ -1,61 +1,55 @@
-# Baillet Adeline Isabelle
+# Adeline Baillet
+## Technicienne informatique junior — maintenance et assistance
 
-![cute-panda-playing-video-game](https://github.com/user-attachments/assets/08b731f3-795f-44f7-81be-f417e9095176)
+**Gironde, France** · [LinkedIn](https://www.linkedin.com/in/adeline-baillet-2b2355164/) · [Portfolio GitHub](https://github.com/A2lyn33)
 
-📍 Adresse : 2 près du bourg 33540 COIRAC | 📞 Téléphone : 07.60.78.13.81 | ✉️ Email : adeline.baillet89@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/adeline-baillet-2b2355164/) | [GitHub](https://github.com/A2lyn33)
+## Profil
 
----
+En reconversion vers la maintenance et l'assistance informatique, je pratique le montage, l'entretien et le dépannage de PC. Je souhaite mettre mes acquis techniques, ma pédagogie et mon sens de l'écoute au service d'une équipe et de ses utilisateurs.
 
-## 📝 Résumé
+## Pratique informatique personnelle
 
-Passionnée d'informatique depuis toujours ! Enfin je réalise ma reconversion dans l'IT. 
+- Montage et démontage de PC de bureau ; remplacement de composants.
+- Vérification de compatibilité des cartes mères, processeurs et mémoires ; préparation de configurations.
+- Recherche de pannes par essais méthodiques et tests croisés de composants.
+- Tests de fonctionnement et surveillance des températures.
+- Nettoyage, entretien et dépannage courant sous Windows.
 
----
+## Projets et apprentissages techniques
 
-## 💼 Expérience professionnelle
+| Projet | Contribution ou contenu |
+| --- | --- |
+| [Serveur multimédia Debian](https://github.com/A2lyn33/Projet-1) | Projet collectif : installation du serveur Debian et du client Windows, participation aux protocoles NFS/SMB, rôle de Product Owner au second sprint et support de présentation. |
+| [Scripting Windows et Linux](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject) | Participation à un projet collectif d'automatisation de tâches d'administration. |
+| [Build Your Infra](https://github.com/WildCodeSchool/TSSR-2409-VERT-P3-G3-build-your-infra) | Participation à un projet collectif d'infrastructure pour une entreprise fictive ; rôles tournants de technicienne, Scrum Master et Product Owner. |
 
-### Enseignante de la conduite - CréonConduite
-**Depuis septembre 2019**  
-- 📈 **Cours Code / Conduite** : Ainsi que toutes les tâches rattachées au métier (Rdv préalable, pédagogique).  
+**Notions travaillées en formation :** Debian, Windows Server, Active Directory, partage de fichiers, adressage IP, virtualisation, Bash et PowerShell.
 
-### Enseignante de la conduite - L.E.C (Libourne espace Conduite)
-**Aout 2015 -septembre 2018**  
-- 🎯 **Cours Code / Conduite** : Ainsi que toutes les tâches rattachées au métier (Rdv préalable, pédagogique).
----
+## Expérience professionnelle
 
-## 🎓 Éducation
+### Enseignante de la conduite et de la sécurité routière
+**Créon Conduite · Libourne Espace Conduite**
 
-### T.S.S.R - Wild Code School
-**Session 2024/2025**  
-- En cours...  
+- Accompagnement individuel et adaptation des explications au niveau et aux difficultés de chacun.
+- Transmission de consignes claires et respect des règles de sécurité.
+- Écoute, patience et contact quotidien avec le public.
 
+### Gérante et secrétaire administrative
+**Mobil-Pub**
 
-### B.E.P.E.C.A.S.E.R - Feu Vert Formation Pessac en Gironde(33)
-**Session 2014/2015**  
-- Major de promo, 3ème Régionale.  
+- Organisation de l'activité, gestion courante et suivi administratif.
 
+## Formation
 
----
+- **Parcours de formation TSSR — Wild Code School, session 2024–2025.** Travaux pratiques et projets collectifs en systèmes et réseaux.
+- **BEPECASER — 2015**, Feu Vert Formation.
+- **Niveau bac STMG**, mercatique, section européenne anglais — Lycée Max Linder, Libourne.
 
-## 🛠️ Compétences
+## Atouts
 
-- **Langues** : Français (natif), Anglais (bases).  
+Pédagogie · Écoute · Organisation · Recherche méthodique de solutions
 
----
-
-## 📂 Projets
-
-### Projet 1 : [Création d'un serveur multimédia](https://github.com/WildCodeSchool/TSSR-2409-P1-G4-Serveur-de-contenus-multimedia.git)
-- Création d'un serveur Multi qui passe par la plateforme "PLEX".  
-
-### Projet 2 : [Scripting Project](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject.git)
-- Création d'automatisation de tâches en script sur des systèmes Windows et Linux.  
-
-### Projet 3 : [Build Your Infra](https://github.com/WildCodeSchool/TSSR-2409-VERT-P3-G3-build-your-infra.git)
-- Création d'une infrastructure réseau de A à Z Pour une société fictive. (Cisco Packet Tracer, Proxmox, ADDS, ...)
+**Langues :** français ; anglais, bases.
 
 ---
-
-## 🎨 Centres d’intérêt
-
-- Cinéma, Jeux Vidéos et les Animaux (chiens, chats, rongeurs, ...).
+Version publique mise à jour en novembre 2026. Les projets collectifs et les apprentissages sont présentés avec leur contexte dans les dépôts liés.
